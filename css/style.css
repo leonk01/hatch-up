@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 body {
+  theme: jekyll-theme-merlot;
   background-color: coral;
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
